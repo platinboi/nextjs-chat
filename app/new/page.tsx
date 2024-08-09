@@ -1,3 +1,5 @@
+'use client'; // This makes the component a Client Component
+
 import { useState } from 'react';
 
 export default function NewPage() {
